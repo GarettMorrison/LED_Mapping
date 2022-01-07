@@ -1,0 +1,2 @@
+# LED_Mapping
+Easily program LED patterns on individually addressable strips. Rather than having the normal LED strip pattern where ripples and patterns move linearly regardless of how they are placed, you can now have patterns move according to where the LEDS are visually. This is achieved by taking a photo of the display, placing and connecting dots over the pixels in the image, and processing it using python. 
